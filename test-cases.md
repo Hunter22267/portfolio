@@ -1,4 +1,3 @@
-```markdown
 ## Test A: Well-Organized Notes
 
 **Topic:** The Water Cycle
